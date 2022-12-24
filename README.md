@@ -9,4 +9,4 @@
 
 > 2/ the scripte will show up that indicate that the migration started 
 
-> 3/ if there is any error just verifie for instance name  
+> 3/ if there is any error just verifie your instance name  
