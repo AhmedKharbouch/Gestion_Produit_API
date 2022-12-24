@@ -8,6 +8,8 @@
 
 > 1/ run this commande: Update-Database
 
+>>if you want to change classes or attribut run this commande "Add-Migration" before "Update-Database"  
+
 > 2/ the scripte will show up that indicate that the migration started 
 
 > 3/ if there is any error just verifie your instance name  
